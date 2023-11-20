@@ -1,1 +1,2 @@
 this ini file waz edit
+edit file from github after this we should run the command pull
